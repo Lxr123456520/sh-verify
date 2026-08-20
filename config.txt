@@ -1,5 +1,5 @@
 status=on
-version=4.2.0
+version=4.3.0
 salt=GT123456
 blacklist=
-notice=欢迎使用SH云端验证系统，卡密需购买，联系QQ作者获取授权
+notice=所有卡密业务(零售/批发)均由本人唯一QQ:3593480832处理。
