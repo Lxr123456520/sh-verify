@@ -1,3 +1,4 @@
 status=on
-version=1.0.0
+version=2.0.0
+salt=GT123456
 notice=欢迎使用本脚本，如有问题请联系作者。
