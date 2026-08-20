@@ -1,5 +1,5 @@
 status=on
-version=4.0.0
+version=4.2.0
 salt=GT123456
 blacklist=
-notice=欢迎使用本脚本，如有问题请联系作者。
+notice=欢迎使用SH云端验证系统，无需购买卡密，联系QQ作者获取授权
